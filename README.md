@@ -8,4 +8,8 @@ It's A Two Player Game. In This Game We have 21 Sticks. Each Players can chose b
 ![Screenshot (672)](https://user-images.githubusercontent.com/61510754/111894730-63f88d80-8a37-11eb-8fe0-febb849dd38d.png)
 ![Screenshot (673)](https://user-images.githubusercontent.com/61510754/111894731-665ae780-8a37-11eb-89d0-536106ba42ed.png)
 
+# Stick Mind in GUI
+
+![Screenshot (675)](https://user-images.githubusercontent.com/61510754/111894855-7cb57300-8a38-11eb-8026-82ed621b7a52.png)
+![Screenshot (674)](https://user-images.githubusercontent.com/61510754/111894856-7f17cd00-8a38-11eb-90a5-4f8e342fc1d5.png)
 
