@@ -4,5 +4,8 @@ It's A Two Player Game. In This Game We have 21 Sticks. Each Players can chose b
 
 # Stick Mind on webpage
 
-![Screenshot (672)](https://user-images.githubusercontent.com/61510754/111894662-e2086480-8a36-11eb-931a-33b13dcdbb8e.png)
-![Screenshot (673)](https://user-images.githubusercontent.com/61510754/111894670-e765af00-8a36-11eb-9011-20f03e729993.png)
+
+![Screenshot (672)](https://user-images.githubusercontent.com/61510754/111894730-63f88d80-8a37-11eb-8fe0-febb849dd38d.png)
+![Screenshot (673)](https://user-images.githubusercontent.com/61510754/111894731-665ae780-8a37-11eb-89d0-536106ba42ed.png)
+
+
